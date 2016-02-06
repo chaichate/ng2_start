@@ -3,7 +3,8 @@
 
 node_modules/
 www/build/
-platforms/
+app/*.js
+*.map
 plugins/
 *.swp
 .DS_Store
